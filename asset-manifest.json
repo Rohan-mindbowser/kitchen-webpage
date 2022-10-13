@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kitchen-webpage/static/css/main.bc5fa0c6.css",
+    "main.js": "/kitchen-webpage/static/js/main.a52a7355.js",
+    "index.html": "/kitchen-webpage/index.html",
+    "main.bc5fa0c6.css.map": "/kitchen-webpage/static/css/main.bc5fa0c6.css.map",
+    "main.a52a7355.js.map": "/kitchen-webpage/static/js/main.a52a7355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc5fa0c6.css",
+    "static/js/main.a52a7355.js"
+  ]
+}
